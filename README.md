@@ -1,4 +1,4 @@
-### Hi there, here is Effie 🥳
+### Hi there, I'm Effie 🙌🏻
 
 <!--
 **effiegao/effiegao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
