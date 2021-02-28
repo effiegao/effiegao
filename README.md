@@ -1,16 +1,13 @@
 ### Hi there, here is Effie 🥳
-(she/her)
+
 <!--
-**effiegao/effiegao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**effiegao/effiegao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my 4th year of undergraduate.
+- 🌱 I’m currently learning Galois Theory, Computer Algebra, Biostatistics
+- 👯 I’m looking to collaborate on hackathon!
+- 🤔 I’m looking for help with Python and C++
+- 💬 Ask me about some fun math problems!
+- 📫 How to reach me: wuqiangao@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I don't like milk at all 😕
