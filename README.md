@@ -3,8 +3,8 @@
 <!--
 **effiegao/effiegao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently a 4th year undergraduate in Applied Math at SFU.
-- 🌱 I’m currently learning Galois Theory, Computer Algebra, Biostatistics.
+- 🔭 I’m currently graduated from Math Hounours Program at SFU.
+- 🌱 I’m  pursuing Biostatistics for my graduate study.
 - 👯 I’m looking to collaborate on hackathon!
 - 🤔 I’m looking for help with Python and C++.
 - 💬 Ask me about some fun math problems!
